@@ -1,2 +1,3 @@
-# minimum-elo-bot
-This is a bot that checks your elo in ranked bedwars and then removes you from the discord if you don't have enough elo.
+# Small code repository
+
+These are my smaller projects that don't need a whole dedicated repository decicated towards them.
